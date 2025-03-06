@@ -9,3 +9,4 @@ langgraph-cli[inmem]
 youtube_transcript_api
 IPython
 typing-extensions
+streamlit
